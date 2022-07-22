@@ -1,5 +1,5 @@
 # ScalapayAPI
-This is a java maven project, using restAssured, cucumber as BDD framework.
+This is a java maven project, using restAssured API framework andcucumber as BDD framework.
 
 ## 2 ways to run the tests
 - Running through the TestRunner for IDE
