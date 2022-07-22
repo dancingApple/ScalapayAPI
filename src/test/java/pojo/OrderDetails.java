@@ -1,4 +1,4 @@
-package dataFiles;
+package pojo;
 
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package dataFiles;
+package pojo;
 
 public class Consumer {
     private String email;

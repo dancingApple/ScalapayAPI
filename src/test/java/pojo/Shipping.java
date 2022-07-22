@@ -1,4 +1,4 @@
-package dataFiles;
+package pojo;
 
 public class Shipping {
     private String name;

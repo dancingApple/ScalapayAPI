@@ -1,14 +1,14 @@
-package dataFiles;
+package pojo;
 
 public class ShippingAmount {
-    private String amount;
+    private float amount;
     private String currency;
 
-    public String getAmount() {
+    public float getAmount() {
         return amount;
     }
 
-    public void setAmount(String amount) {
+    public void setAmount(float amount) {
         this.amount = amount;
     }
 

@@ -1,4 +1,4 @@
-package dataFiles;
+package pojo;
 
 public class Merchant {
     private String redirectCancelUrl;

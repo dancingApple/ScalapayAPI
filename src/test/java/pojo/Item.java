@@ -1,4 +1,4 @@
-package dataFiles;
+package pojo;
 
 import java.util.List;
 
@@ -8,7 +8,7 @@ public class Item {
     private String brand;
     private Price price;
     private String category;
-    private String quantity;
+    private int quantity;
     private List<String> subcategory;
 
     public String getSku() {
@@ -51,11 +51,11 @@ public class Item {
         this.category = category;
     }
 
-    public String getQuantity() {
+    public int getQuantity() {
         return quantity;
     }
 
-    public void setQuantity(String quantity) {
+    public void setQuantity(int quantity) {
         this.quantity = quantity;
     }
 
